@@ -1,16 +1,13 @@
-# language_app
+# Portuguese Learning Mobile App with Flutter
 
-A new Flutter project.
+Welcome to our Portuguese Learning Mobile App built using Flutter! This application aims to make learning Portuguese an engaging and interactive experience.
 
-## Getting Started
+## Features:
 
-This project is a starting point for a Flutter application.
+<li>Intro Page: Users are greeted with an inviting Intro Page, setting the tone for their language-learning journey.</li>
 
-A few resources to get you started if this is your first Flutter project:
+<li>Get Started: A user-friendly "Get Started" button acts as a gateway to the Home Page, where the learning adventure truly begins.</li>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<li>Home Page: Upon entering, users are presented with a visually appealing interface. Blocks featuring captivating images paired with English words and their corresponding Portuguese translations encourage immersive learning.</li>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<li>Scroll and Learn: Users can effortlessly scroll through these blocks, gaining exposure to essential vocabulary. The seamless design enhances user engagement, making language acquisition enjoyable.</li>
