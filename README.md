@@ -11,3 +11,6 @@ Welcome to our Portuguese Learning Mobile App built using Flutter! This applicat
 <li>Home Page: Upon entering, users are presented with a visually appealing interface. Blocks featuring captivating images paired with English words and their corresponding Portuguese translations encourage immersive learning.</li>
 
 <li>Scroll and Learn: Users can effortlessly scroll through these blocks, gaining exposure to essential vocabulary. The seamless design enhances user engagement, making language acquisition enjoyable.</li>
+
+https://github.com/thiagobgarc/portuguese_language_app/assets/117615425/e0ac1bbc-7288-41d5-9d5a-308cd6070c79
+
